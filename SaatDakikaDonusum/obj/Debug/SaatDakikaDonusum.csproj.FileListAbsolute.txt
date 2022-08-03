@@ -1,0 +1,10 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\SaatDakikaDonusum\bin\Debug\SaatDakikaDonusum.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\SaatDakikaDonusum\bin\Debug\SaatDakikaDonusum.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\SaatDakikaDonusum\bin\Debug\SaatDakikaDonusum.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\SaatDakikaDonusum\obj\Debug\SaatDakikaDonusum.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\SaatDakikaDonusum\obj\Debug\SaatDakikaDonusum.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\SaatDakikaDonusum\obj\Debug\SaatDakikaDonusum.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\SaatDakikaDonusum\obj\Debug\SaatDakikaDonusum.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\SaatDakikaDonusum\obj\Debug\SaatDakikaDonusum.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\SaatDakikaDonusum\obj\Debug\SaatDakikaDonusum.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\SaatDakikaDonusum\obj\Debug\SaatDakikaDonusum.pdb
